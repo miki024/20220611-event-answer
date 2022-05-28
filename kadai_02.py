@@ -11,6 +11,7 @@ def main():
 def serch_index(sorted_array, target_number):
 
     # ここから記述
+    
     # 探索範囲の左端と右端を定義
     left = 0
     right = len(sorted_array) - 1
